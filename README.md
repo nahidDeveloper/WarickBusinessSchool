@@ -2,6 +2,12 @@
 
 This project aims to provide a comprehensive backend system for managing daily records, teams, and metrics for the Warwick Business School.
 
+### Frontend Repository
+
+The frontend for this project is available on GitHub:
+
+[WarickBusinessSchoolClient](https://github.com/nahidDeveloper/WarickBusinessSchoolClient)
+
 ## Table of Contents
 
 - [Overview](#overview)
